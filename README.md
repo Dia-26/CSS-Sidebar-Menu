@@ -1,6 +1,6 @@
 # Sidebar Menu Project
 
-This project is a responsive **Sidebar Menu** created using **HTML, CSS, and Font Awesome icons**. It features a smooth slide-in and slide-out animation, interactive menu items, and social media icons. The sidebar can be toggled with a hamburger menu button, creating an elegant and user-friendly navigation experience.
+#This project is a responsive **Sidebar Menu** created using **HTML, CSS, and Font Awesome icons**. It features a smooth slide-in and slide-out animation, interactive menu items, and social media icons. The sidebar can be toggled with a hamburger menu button, creating an elegant and user-friendly navigation experience.
 
 ✨ Features
 ✅ Responsive Sidebar Menu
